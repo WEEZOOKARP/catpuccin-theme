@@ -1,2 +1,2 @@
-# addon-txadmin-theme
-Restores the original txAdmin branding, light/dark theme toggle, color palette, and logos. An fxPanel addon.
+# addon-catpuccin-theme
+Fxpanel theme based on catpuccin, light/dark theme toggle, color palette, and logos
