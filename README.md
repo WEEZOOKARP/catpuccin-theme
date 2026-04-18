@@ -1,2 +1,2 @@
 # addon-catpuccin-theme
-Fxpanel theme based on catpuccin, light/dark theme toggle (dark mode is the focus), color palette
+A simple theme based off the catpuccin style, the file structure is based off the txadmin theme that was released.
