@@ -137,3 +137,15 @@ header[class*="bg-[#11131c]"] {
 img[alt="fxPanel"] {
     content: url('/addons/catpuccin-theme/static/logo.svg');
 }
+
+.auth-bg {
+    background-color: hsl(var(--background));
+    background-image:
+        radial-gradient(ellipse 80% 50% at 20% 40%, hsl(var(--accent) / 0.05) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 80% 70%, hsl(var(--accent) / 0.03) 0%, transparent 50%);
+}
+
+#root > div.flex.h-screen.overflow-hidden > aside {
+    background-color: hsl(var(--card)) !important;
+    border-right-color: hsl(var(--border)) !important;
+}
